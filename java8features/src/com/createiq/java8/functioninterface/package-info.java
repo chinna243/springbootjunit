@@ -1,0 +1,1 @@
+package com.createiq.java8.functioninterface;
